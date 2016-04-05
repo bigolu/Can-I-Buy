@@ -1,3 +1,6 @@
 # secrets
 config.py
 config.pyc
+
+# virtual environment
+venv/
